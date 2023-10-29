@@ -45,6 +45,11 @@ class RegisterActivity : AppCompatActivity() {
                                     .make(findViewById(android.R.id.content),
                                         "Registro exitoso",
                                         Snackbar.ANIMATION_MODE_FADE).show()
+
+                                etFullName.setText("")
+                                etCountry.setText("")
+                                etEmailRegister.setText("")
+                                etPasswordRegister.setText("")
                             }.addOnFailureListener{
                                 Snackbar
                                     .make(findViewById(android.R.id.content),
