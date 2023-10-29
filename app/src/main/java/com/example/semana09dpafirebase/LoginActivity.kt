@@ -41,5 +41,9 @@ class LoginActivity : AppCompatActivity() {
                 }
         }
 
+        btnRegister.setOnClickListener {
+            startActivity(Intent(this, RegisterActivity::class.java))
+        }
+
     }
 }

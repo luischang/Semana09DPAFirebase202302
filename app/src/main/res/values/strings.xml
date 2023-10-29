@@ -4,4 +4,13 @@
     <string name="valbtnregister">REGISTER</string>
     <string name="valtxtemail">Email</string>
     <string name="valtxtPassword">Password</string>
+
+
+    <string name="title_register">Register</string>
+
+    <string name="valetfullname">Full Name</string>
+    <string name="valetcountry">Country</string>
+    <string name="valetemailregister">Email</string>
+    <string name="valetpasswordregister">Password</string>
+    <string name="valbtnsaveregister">SAVE</string>
 </resources>
