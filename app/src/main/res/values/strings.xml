@@ -21,9 +21,14 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Producto</string>
+    <string name="menu_gallery">Cliente</string>
+    <string name="menu_slideshow">Pokemon</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_customer">REGISTER</string>
+    <string name="valetfirstname">First name</string>
+    <string name="valetlastname">Last name</string>
+    <string name="valetphonenumber">Phone number</string>
 </resources>
